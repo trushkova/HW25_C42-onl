@@ -5,7 +5,6 @@
   Time: 21:31
   To change this template use File | Settings | File Templates.
 --%>
-
 <%@ page contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8" %>
 
@@ -22,12 +21,10 @@
 <a href="${pageContext.request.contextPath}/book">
     Books
 </a>
-
 <br><br>
 
 <a href="${pageContext.request.contextPath}/load-book">
     Load book
 </a>
-
 </body>
 </html>
